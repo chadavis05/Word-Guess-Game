@@ -8,6 +8,7 @@ header {
 
 .underscores {
     border: 5px solid black;
+    background-color: aqua;
     font-size: 100px;
     height: 150px;
     text-align: center;
@@ -24,6 +25,7 @@ header {
 
 .wrongGuess {
     border: 5px solid black;
+    background-color: red;
     font-size: 20px;
     height: 150px;
     text-align: center;
